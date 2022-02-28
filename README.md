@@ -8,7 +8,7 @@
 Hi, I'm [Amey Deshmukh](https://www.linkedin.com/in/amey-deshmukh-016a68107/), working as a Site Reliability Engineer at [Infracloud](https://www.infracloud.io/).
 
 
-<img align="right" alt="GIF" src="https://github.com/ameydev/ameydev/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/ameydev/ameydev/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ### Talking about Personal Stuffs
 
