@@ -55,6 +55,7 @@ Hi, I'm [Amey Deshmukh](https://www.linkedin.com/in/amey-deshmukh-016a68107/), w
 
 ### :card_index: Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [CKS Exam: Tips and tricks](https://medium.com/@ameydev/cks-exam-tips-and-tricks-30f90c7c38ca?source=rss-d57da9ba885e------2)
 - [Hello, world! Just started blogging.](https://medium.com/@ameydev/hello-world-just-started-blogging-34d268cab93?source=rss-d57da9ba885e------2)
 <!-- BLOG-POST-LIST:END -->
 
