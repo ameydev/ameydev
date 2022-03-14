@@ -60,6 +60,11 @@ Hi, I'm [Amey Deshmukh](https://www.linkedin.com/in/amey-deshmukh-016a68107/), w
 <!-- BLOG-POST-LIST:END -->
 
 
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> Connect with me 
 <a href="https://www.linkedin.com/in/amey-deshmukh-016a68107/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="ameydev" /></a>
 <a href="https://medium.com/@ameydev
