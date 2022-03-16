@@ -62,8 +62,8 @@ Hi, I'm [Amey Deshmukh](https://www.linkedin.com/in/amey-deshmukh-016a68107/), w
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/ameydev/kv-svc/issues/1) in [ameydev/kv-svc](https://github.com/ameydev/kv-svc)
-2. 🗣 Commented on [#1](https://github.com/ameydev/kv-svc/issues/1) in [ameydev/kv-svc](https://github.com/ameydev/kv-svc)
+1. ❗️ Opened issue [#8](https://github.com/ameydev/satellite/issues/8) in [ameydev/satellite](https://github.com/ameydev/satellite)
+2. ❗️ Opened issue [#7](https://github.com/ameydev/satellite/issues/7) in [ameydev/satellite](https://github.com/ameydev/satellite)
 <!--END_SECTION:activity-->
 
 
