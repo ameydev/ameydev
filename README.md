@@ -5,15 +5,15 @@
 <i>❝Sometimes it is the people no one can imagine anything of who do the things no one can imagine.❞ - Alan Turing ([The Imitation Game](https://www.imdb.com/title/tt2084970/))</i>
 <!--ENDS_HERE_QUOTE_README-->
 
-Hi, I'm [Amey Deshmukh](https://www.linkedin.com/in/amey-deshmukh-016a68107/), working as a Site Reliability Engineer at [Infracloud](https://www.infracloud.io/).
+Hi, I'm [Amey Deshmukh](https://www.linkedin.com/in/amey-deshmukh-016a68107/), working as a Site Reliability Engineer at [VMWare](https://www.vmware.com/in.html).
 
 
 <img align="right" alt="GIF" src="https://github.com/ameydev/ameydev/blob/main/code.gif?raw=true" width="500" height="320" />
 
-### Talking about Personal Stuffs
+### Talking about Personal Stuff
 
 - 🥅 Goals: 
-    - Find some interesting problems and to build solutions around them. 
+    - Find some interesting problems and build solutions around them. 
     - Make them #open-source
     - Programming mostly in Golang.
     - Contribute more to Open Source projects
